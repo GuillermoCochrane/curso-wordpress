@@ -1,0 +1,87 @@
+Titulos
+
+Anton
+Impact
+League Gothic
+Bebas Neue
+
+Anton (Google Fonts)
+Bebas Neue (Google Fonts)
+Agency FB (una opción más industrial)
+
+Texto
+
+Roboto
+Open Sans
+Arial
+Helvetica
+
+Roboto (Google Fonts)
+Open Sans (Google Fonts)
+Montserrat (Google Fonts) para un toque más moderno
+
+logo
+
+Logotipo de "Atahualpa" y tipografía con textura:
+
+El estilo de la tipografía con textura que parece desgastada puede ser emulada por:
+Rustico o Urban Jungle (para un look rústico y gastado)
+Gunny Reclaimed (fuente con apariencia desgastada)
+
+Viendo el logo en detalle, parece ser una variante o una fuente muy similar a estas opciones:
+
+"Alumni Sans" - Es una fuente gratuita de Google Fonts que tiene características muy similares, especialmente en:
+
+Los bordes irregulares
+La forma condensada de las letras
+Las terminaciones angulares
+
+
+"Rama Gothic" - También muy similar en:
+
+El estilo condensado
+Las proporciones de las letras
+La estructura básica
+
+Por lo que observo en los flyers de Atahualpa, se utilizan principalmente dos estilos de fuentes:
+
+Para los títulos principales (como "CHILLI CHEESE BURGER", "TUS PAPAS"):
+
+
+Industrial/Industrial Gothic
+Bebas Neue
+Tungsten
+Din Condensed
+
+
+Para el texto secundario/descriptivo:
+
+Helvetica Neue Condensed
+Trade Gothic Condensed
+Roboto Condensed
+Archivo Narrow
+
+No, la mayoría de estas fuentes no vienen por defecto en Windows.
+Las fuentes que SÍ vienen por defecto en Windows y que podrían servir como alternativas son:
+
+Arial Narrow (como alternativa a las condensadas)
+Impact (para títulos llamativos)
+Segoe UI (para texto descriptivo)
+
+Sin embargo, si quieres lograr un aspecto más similar al de los flyers, podrías:
+
+Descargar fuentes gratuitas similares de sitios seguros como:
+
+
+Google Fonts (fonts.google.com)
+DaFont (dafont.com)
+Font Squirrel (fontsquirrel.com)
+
+Algunas fuentes gratuitas recomendadas serían:
+
+Oswald (similar a la de los títulos)
+Roboto Condensed
+League Gothic
+Bebas Neue (la versión gratuita)
+
+

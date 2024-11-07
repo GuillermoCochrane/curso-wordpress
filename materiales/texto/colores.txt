@@ -1,0 +1,6 @@
+R:250 V:206 B:0 (AMARILLO)
+Black (#000)
+white (#FFF)
+gris (89 89 89)
+amarillo #face00
+rgb(250,206,0)
